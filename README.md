@@ -1,4 +1,4 @@
-🚤 Pengukuran Kecepatan, Titik Koordinat, Heading, dan Jarak Kapal RC Boat (ESP32)
+#🚤 Pengukuran Kecepatan, Titik Koordinat, Heading, dan Jarak Kapal RC Boat (ESP32)
 
 Memantau kecepatan, arah (heading), titik koordinat, dan jarak tempuh kapal RC Boat menggunakan
 ESP32 + GPS NEO-6M + OLED SSD1306 + RTC DS3231 + microSD + Ubidots.
