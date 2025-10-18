@@ -35,3 +35,9 @@ Menampilkan Peta pergerakan kapal, Grafik kecepatan & arah secara real-time, Rek
   
 ## Library
 `WiFi`,`WiFiManager`,`TinyGPSPlus`,`HardwareSerial`,`Ubidots`,`Wire`,`SPI`,`SD`,`RTClib`,`Adafruit_GFX`,`Adafruit_SSD1306`.
+
+## Build & Setup
+1. Tambahkan file lokal **`secrets.h`** (jangan di-commit ke GitHub):
+   ```cpp
+   #pragma once
+   #define UBIDOTS_TOKEN "ISI_TOKEN_UBIDOTS_KAMU"
