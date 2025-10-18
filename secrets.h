@@ -1,0 +1,2 @@
+#pragma once
+#define UBIDOTS_TOKEN "ISI_TOKEN_UBIDOTS_KAMU"
